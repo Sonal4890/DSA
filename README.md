@@ -12,7 +12,7 @@
 | **Language** | C++ |
 | **Started On** | 17, October 2025 |
 | **Ended On** | Soon |
-| **Repository** | [tusharr01/Decode-DSA-with-CPP](https://github.com/tusharr01/Decode-DSA-with-CPP) |
+| **Repository** | [sonal4890/Decode-DSA-with-CPP](https://github.com/Sonal4890/Decode-DSA-with-CPP) |
 
 ---
 ## 📈 DSA Learning Progress
